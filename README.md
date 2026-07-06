@@ -54,11 +54,40 @@ Churn Probability: 65.81%
 
 # Dataset Information
 
-Dataset Used:
+# Dataset Source
 
-Telco Customer Churn Dataset (Kaggle)
+Dataset Name:
+Telco Customer Churn Dataset
 
-The dataset contains customer information including:
+Dataset Provider:
+IBM Sample Data Collection
+
+Hosted On:
+Kaggle
+
+Dataset Version:
+Latest Kaggle version available at project development time
+
+Source URL:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+
+File Used:
+
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+
+Dataset Size:
+
+7043 customer records
+
+21 original attributes
+
+
+Target Variable:
+
+Churn
+(Binary Classification)
 
 ### Customer Demographics
 
