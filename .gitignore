@@ -11,13 +11,6 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Models
-models/*.pkl
-models/*.joblib
-
-# Dataset
-data/*.csv
-data/*.xlsx
 
 # OS files
 .DS_Store
